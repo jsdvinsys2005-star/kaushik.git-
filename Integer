@@ -1,0 +1,12 @@
+<html>
+<body>
+
+<h1>The summary element</h1>
+
+<details>
+  <summary>click to see integer</summary>
+  <p>Integer: 55</p>
+</details>
+
+</body>
+</html>
