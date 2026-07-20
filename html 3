@@ -1,0 +1,9 @@
+<body>
+
+x = "paython"
+y = "is"
+z = "bad language"
+
+print(x, y, z)
+
+</body>
