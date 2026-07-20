@@ -1,0 +1,15 @@
+<html>
+<body>
+
+<h2>a to z</h2>
+
+<p id="demo"></p>
+
+<script>
+let ch = "a to z";
+document.getElementByID("demo").innerHTML
+=ch;
+</script>
+
+</body>
+</html>
